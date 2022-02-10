@@ -7,6 +7,9 @@ import { PersonajesComponent } from './personajes/personajes.component';
 import { AgregarComponent } from './agregar/agregar.component';
 
 
+import { HarryService } from './services/harry.service';
+
+
 
 
 @NgModule({
@@ -21,6 +24,9 @@ import { AgregarComponent } from './agregar/agregar.component';
   ],
   exports:[
     MainPageComponent
+  ],
+  providers:[
+    HarryService
   ]
 })
 export class HarryModule { }
