@@ -4,6 +4,21 @@
       "id": 1,
       "usuario": "John Doe",
       "email": "john.due@gmail.com"
+    },
+    {
+      "superhero": "Abigaill",
+      "publisher": "Marvel Comics",
+      "id": 2
+    },
+    {
+      "superhero": "Abigaill",
+      "publisher": "Marvel Comics",
+      "id": 3
+    },
+    {
+      "superhero": "Abigaill",
+      "publisher": "Marvel Comics",
+      "id": 4
     }
   ],
   "heroes": [
